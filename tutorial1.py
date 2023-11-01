@@ -34,3 +34,25 @@ VariableName = "each word start with a capital letter"
 
 # Snake case
 variable_name = "each word is separated by an underscore character"
+
+#assigning multiple values 
+print("assigning multiple value")
+
+# many values to Multiple values
+print("many values to multiple values")
+d,e,f = "lamborghini", "BMW", "Mercedes"
+print(d)
+print(e)
+print(f)
+
+#one value to Multiple variable
+
+print("one value to Multiple variable")
+g = h = i = "bugati"
+print(g)
+print(h)
+print(i)
+
+#unpack a collection
+
+print("unpackig a collection")
